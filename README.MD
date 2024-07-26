@@ -1,6 +1,6 @@
 # ANALISTA DE QA (TRIPLETEN)
 
-<img src= "C:Imagem\tripleten.brasil.jpg">
+<img src= "Imagem\tripleten.brasil.jpg">
 
 
 ### Sprint 1 
