@@ -3,34 +3,36 @@
 <img src= "Imagem\tripleten.brasil.jpg">
 
 
-### Sprint 1 
+### Sprint 1  (Tópicos)
 
-- Diferentes tipos de testes (unitários, integração, sistema, aceitação). 
-- Ferramentas e metodologias de teste. 
-- Práticas de escrita de casos de teste e planos de teste.
+- O que são testes de software
+- Quais habilidades você precisa desenvolver para se tornar um analista de QA
+- Como criar testes para um site
+- O que fazer após encontrar um defeito
 
-### Sprint 2 
--Defini classes de equivalência e valores-limite 
-- Fiz design de testes para cálculo de tempo e custo 
-- Desenhei um mapa mental 
+### Sprint 2 (Tópicos)
 
-### Sprint 3
+- Como são os requisitos de aplicativos e como os decompor
+- Como mapas mentais e fluxogramas podem ajudar a visualizar esses requisitos
+- O que são classes de equivalência e valores-limite e como usá-los para criar casos de teste
 
-- Criei checklists de layouts 
-- Preparei casos de testes 
-- Testei aplicativo e escrevi relatórios de bug no Jira
+### Sprint 3 (Tópicos)
 
-### Sprint 4
+- O que são arquitetura cliente-servidor, front-end e back-end
+- O que são URL, HTTP e HTTPS
+- Como visualizar solicitações e respostas HTTP no DevTools do navegador
+- O que são cookies, armazenamento local e cache
 
-- Criei e enviei solicitações à API via Postam
-- Criei e enviei solicitações à API via Postman 
-- Criei relatórios de bug no Jira
+### Sprint 4 (Tópicos)
+
+- O que é uma API
+- Como a arquitetura de um aplicativo com uma API e banco de dados é organizada
+- Como testar uma API
+- O que é a solução de arquitetura REST
 
 ### Projeto Final
 
-- Questões teóricas sobre práticas de design de teste, classes de equivalência e técnicas de particionamento de equivalência 
-- Mapa mental 
-- Cheklist de funcionalidades 
-- Testes de campo de comentários com diferentes dados de teste, incluindo limites e valores extremos 
-- Relatórios de bugs no Jira 
-- Criei e apliquei testes com API
+- A primeira tarefa é teórica e vai verificar seu conhecimento sobre os principais aspectos de teste
+- As tarefas 2 e 3 são práticas e vão verificar se você sabe analisar e fazer o design de testes; ou seja, testar aplicativos da web e APIs.
+- Você vai testar o aplicativo Urban.Scooter: um serviço que permite alugar uma scooter elétrica por alguns dias.
+- Reportar os bug que sejan encontrados no Jira
