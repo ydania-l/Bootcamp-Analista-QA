@@ -1,4 +1,4 @@
-# ANALISTA DE QA (TRIPLETEN)
+# BOOTCAMP ANALISTA DE QA (TRIPLETEN)
 
 <img src= "Imagem\testing.jpg">
 
