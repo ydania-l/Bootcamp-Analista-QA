@@ -1,6 +1,6 @@
 # ANALISTA DE QA (TRIPLETEN)
 
-<img src= "testing.jpg">
+<img src= "Imagem\testing.jpg">
 
 
 ### Sprint 1  (Tópicos)
@@ -35,4 +35,4 @@
 - A primeira tarefa é teórica e vai verificar seu conhecimento sobre os principais aspectos de teste
 - As tarefas 2 e 3 são práticas e vão verificar se você sabe analisar e fazer o design de testes; ou seja, testar aplicativos da web e APIs.
 - Você vai testar o aplicativo Urban.Scooter: um serviço que permite alugar uma scooter elétrica por alguns dias.
-- Reportar os bug que sejan encontrados no Jira
+- Reportar os bug que sejan encontrados no Jira.
