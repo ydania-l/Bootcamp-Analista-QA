@@ -1,6 +1,6 @@
 # BOOTCAMP ANALISTA DE QA (TRIPLETEN)
 
-<img src= "Imagem\testing.jpg">
+<img src= "Imagem\Careers-xpand-it-trabalhar-como-qa-tester-670x380.png">
 
 
 ### Sprint 1  (Tópicos)
