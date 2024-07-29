@@ -1,6 +1,6 @@
 # ANALISTA DE QA (TRIPLETEN)
 
-<img src= "C:\Users\Meu Computador\Desktop\TRIPLETEN\ANALISTA DE QA\GITHUB\Bootcamp QA\Imagem\testing.jpg">
+<img src= "testing.jpg">
 
 
 ### Sprint 1  (Tópicos)
