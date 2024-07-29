@@ -5,7 +5,7 @@
 
 ### Sprint 1  (Tópicos)
 
-- O que são testes de software
+- O que são testes de software.
 - Quais habilidades você precisa desenvolver para se tornar um analista de QA
 - Como criar testes para um site
 - O que fazer após encontrar um defeito
